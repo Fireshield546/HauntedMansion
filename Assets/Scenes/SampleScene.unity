@@ -2753,7 +2753,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 779046946}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.07934432, y: 0.91437554, z: -0.3310496, w: -0.21915296}
+  m_LocalRotation: {x: -0.07934433, y: 0.91437554, z: -0.3310496, w: -0.219153}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -3102,7 +3102,7 @@ Transform:
   m_GameObject: {fileID: 954252558}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.2592218, y: 2.59513, z: -0.6467562}
+  m_LocalPosition: {x: 2.259222, y: 2.59513, z: -0.6467562}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3197,8 +3197,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.075344935, y: 0.9202459, z: -0.31436282, w: -0.22055998}
-  m_LocalPosition: {x: 2.2592218, y: 2.59513, z: -0.6467562}
+  m_LocalRotation: {x: -0.07534494, y: 0.9202459, z: -0.31436285, w: -0.22056001}
+  m_LocalPosition: {x: 2.259222, y: 2.59513, z: -0.6467562}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16440,7 +16440,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1486009331}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.07534491, y: 0.9202459, z: -0.31436282, w: -0.22055997}
+  m_LocalRotation: {x: -0.07534492, y: 0.9202459, z: -0.31436282, w: -0.22055998}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -16658,7 +16658,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1576670733}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.07133124, y: 0.92579746, z: -0.29761648, w: -0.22189054}
+  m_LocalRotation: {x: -0.071331255, y: 0.92579746, z: -0.29761648, w: -0.22189058}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
